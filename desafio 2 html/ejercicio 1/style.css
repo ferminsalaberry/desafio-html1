@@ -1,0 +1,29 @@
+body{
+   
+}
+
+h1{
+color: #092ff1;
+font-family: 'Poppins', sans-serif;
+font-size: 78.6px;
+}
+h2{
+    font-weight: 500;
+color: #092ff1;
+font-family: 'Poppins', sans-serif;
+font-size: 30.6px;
+
+}
+span{
+    background-color: #3ffff3;
+}
+img {
+width: 400px;
+}
+
+.fondo{
+    background-image:url(fondo.JPG);
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-size:15%;
+}
